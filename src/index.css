@@ -1,0 +1,31 @@
+.box{
+  height: 70px;
+  width: 100%;
+  background: greenyellow;
+  line-height: 70px;
+  display: flex;
+}
+button{
+  height: 50px;
+}
+nav ul li{
+  float: left;
+  margin-left:25vh;
+  list-style-type:none;
+  color: aqua;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+.from{
+  height: 500px;
+  width: 700px;
+  background-color: aqua;
+  margin: 40px auto;
+  border-radius: 10px;
+  border: 1px solid black;
+  box-shadow: opx opx  10px maroon;
+  padding: 0px;
+}
